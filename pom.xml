@@ -31,8 +31,18 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>5.2.9.RELEASE</version>
+      <version>5.2.11.RELEASE</version>
     </dependency>
+
+
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-beans</artifactId>
+      <version>5.2.11.RELEASE</version>
+    </dependency>
+
+
 
 
 
